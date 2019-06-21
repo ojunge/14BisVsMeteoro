@@ -69,7 +69,7 @@ function criaMeteoro()
 	 largura = 50,
 	 altura = 44,
 	 peso = math.random(3),
-	 deslocamento = math.random(-1,1)
+	 deslocamento = math.random(-1,0.001)
 	}
 	table.insert(meteoros, meteoro)
 
