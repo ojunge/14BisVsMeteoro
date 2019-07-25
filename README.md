@@ -11,9 +11,9 @@ O usuário terá controle do 14 Bis e o objetivo do mesmo é atirar e destruir o
 Baixe o repo usando git clone ou download.
 Vá na parta do seu sistema operacional e rode o arquivo 14BisVsMeteoro.exe.
 
-![Jogo 1](https://github.com/ojunge/14BisVsMeteoro/raw/master/imagens/jogo1.png)
+![Jogo 1](https://github.com/ojunge/14BisVsMeteoro/raw/master/imagens/jogo1.PNG)
 
-![Jogo 2](https://github.com/ojunge/14BisVsMeteoro/raw/master/imagens/jogo2.png)
+![Jogo 2](https://github.com/ojunge/14BisVsMeteoro/raw/master/imagens/jogo2.PNG)
 
 
 ### Onde Baixar
